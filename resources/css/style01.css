@@ -1,0 +1,11 @@
+* {
+    text-align: center;
+  }
+  
+  .center-it {
+    width: 570px;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -40%);
+  }
